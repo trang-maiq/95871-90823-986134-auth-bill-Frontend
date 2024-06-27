@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Join a Community Where Ideas Soar and Innovations Thrive",
+        "title": "Yay: Ignite Your Technological Brilliance"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Join a Community Where Ideas Soar and Innovations Thrive",
+        "title": "Yay: Ignite Your Technological Brilliance"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Join a Community Where Ideas Soar and Innovations Thrive",
+        "title": "Yay: Ignite Your Technological Brilliance"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Join a Community Where Ideas Soar and Innovations Thrive",
+        "title": "Yay: Ignite Your Technological Brilliance"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Join a Community Where Ideas Soar and Innovations Thrive",
+        "title": "Yay: Ignite Your Technological Brilliance"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Join a Community Where Ideas Soar and Innovations Thrive",
+        "title": "Yay: Ignite Your Technological Brilliance"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Join a Community Where Ideas Soar and Innovations Thrive",
+        "title": "Yay: Ignite Your Technological Brilliance"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Join a Community Where Ideas Soar and Innovations Thrive",
+        "title": "Yay: Ignite Your Technological Brilliance"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Ignite Your Technological Brilliance",
+  "subtitle": "Join a Community Where Ideas Soar and Innovations Thrive"
+}
